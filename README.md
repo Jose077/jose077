@@ -3,7 +3,7 @@
 Meu nome é José Sandeson, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente usando VueJS com o framework NuxtJS, no mobile utilizando Flutter e também conhecimentos em nodeJs com framework express, Api REST, e banco de dados relacionais como MySQL.
 
 - 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações.
-- 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, NestJS, VueJS,Flutter, temas de UI/UX.
+- 🌱 Sempre estudando sobre Typescript, Javascript, NodeJS, NestJS, VueJS, temas de UI/UX.
 <div align="center" >
 
 [![Sandeson's github stats](https://github-readme-stats.vercel.app/api?username=jose077&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
