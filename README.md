@@ -99,8 +99,8 @@
   <strong> Database ⚡ </strong>
 
   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue"/>
-  
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-blue.svg?&style=for-the-badge&logo=mysql&logoColor=blue"/>
+
   <br />
   <br />
 </div>
