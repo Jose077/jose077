@@ -41,7 +41,7 @@
 
 ---- 
 ### Redes sociais 🔌
-<sub> <br>
+<sub> 
 [<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/jose-sandeson-1566915618) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/jos%C3%A9-sandeson-499991201) 
 [<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:josesandeson54@gmail.com">](mailto:josesandeson54@gmail.com)  
