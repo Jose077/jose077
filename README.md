@@ -44,8 +44,7 @@
 
 ---- 
 ### Redes sociais 🔌
-<div>
-   
+<div align="justify" >
 
    [<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/jose-sandeson-1566915618) 
 
