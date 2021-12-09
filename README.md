@@ -15,11 +15,7 @@
 </p>
 
 <p align="justify">
-   - 🌱 Sempre estudando sobre ReactJS/NextJs e NodeJS/NestJS.
-</p>
-
-<p align="justify">
-   - 🌱 Sempre aplicando e estudando sobre as boas práticas de clean architecture e desenvolvimento dirigido a teste(TDD).
+   - 🌱 Sempre estudando sobre VueJs/NuxtJs, ReactJS/NextJs e NodeJS/NestJS.
 </p>
 
 <p align="justify">
