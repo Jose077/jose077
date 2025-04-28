@@ -7,7 +7,7 @@
 ### Fala Dev 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="justify">
-   Meu nome é José Sandeson, sou desenvolvedor Full Stack estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com VueJS/NuxtJS, ReactJs/NextJs para o front-end e NodeJs/NestJs para o back-end. 
+   Meu nome é José Sandeson, sou desenvolvedor Full Stack estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com VueJS/NuxtJS, ReactJs/NextJs para o front-end e NodeJs/NestJs e golang para o back-end. 
 </p>
 
 <p align="justify">
